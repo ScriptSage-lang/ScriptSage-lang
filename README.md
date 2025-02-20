@@ -1,112 +1,144 @@
+<h2 align="center">
+  <img alt="Hello" src="https://github.com/user-attachments/assets/e5e42af4-2e4f-46f1-948f-67adedd5b561" width="30px"> 
+  Hello,World!
+  <img alt="Earth" src="https://github.com/user-attachments/assets/12865165-fa61-45a4-b792-22007ce0ade9" width="24px"/>
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+</h2>
 
-<h1 align="center">Hi 👋, I'm Daniel Cameron</h1>
-<h3 align="center"Fual Stack Developer</h3>
+<h2 align="center">
+    I'm
+    <img alt="popup_cat" src="https://github.com/user-attachments/assets/90e44a4d-50ad-4ff6-9b84-e84098824087" width="40">
+    Daniel Cameron
+    <img alt="dev_cat" src="https://github.com/user-attachments/assets/8530fe62-9e19-4e3e-8392-2c89d226dc0f" width="50">
 
+</h2>
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supravatm&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat-mondal" /> 
+<img width="55%" align="right" alt="Bootcamp" src="https://github.com/user-attachments/assets/5f6ec58c-6f52-41bb-9626-838488640ac4"/>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<p align="left">
+  <samp>
+    <br><br>
+    Full stack developer
+    <br><br>
+     & mobile developer...
+    <br><br>
+    Focusing on building beautiful
+    <br><br> 
+    & native applications...
+  </samp>
+</p>
 
-<br>
+<hr/>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<h2 align="center">About</h2>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+- **Plateforms :** **_Web, Desktop, Server_**
+- **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
-<br><br>
+- **Frameworks :** <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />, <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width=80/>
 
-👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
+- **Databses :** <img src="https://github.com/user-attachments/assets/fba4f27a-a553-452d-bdb6-4a57063fe8fc" width=100/>, <img src="https://github.com/user-attachments/assets/abd84147-0d2a-465a-a71b-56f270916071" width=80/>, <img src="https://github.com/user-attachments/assets/7cfba9f1-a690-4f18-907f-4df8e714b217" width=80/>
 
-💬 Ask me about **PHP, Reactjs, Nextjs**
+- **Hobbies :** **_Manga📜Reading_,<img src="https://github.com/user-attachments/assets/67a84549-bbad-475c-aab2-fe65af301b42" width=60/>** **_, Watching👀Anime_**
 
-📫 How to reach me **Mysteryhunter0206@gmail.com**
+<hr/>
 
-📄 Know about my experiences [my experiences](http://supravatm.github.io)
-
-⚡ Fun fact **I think I'm funny**
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-#### Languages and Tools:
+<p align="left" >
 
 
-![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
-![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
-![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
-![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
-![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
-![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
-![Less](http://img.shields.io/badge/-Less-254c7d?style=flat-square&logo=less&logoColor=white)
-![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
-![Scala](http://img.shields.io/badge/-Scala-dd3734?style=flat-square&logo=scala&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
-![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
-![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
-![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
-![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
+<img  align="left" alt="ArrowDownward" width="10%" src="https://github.com/user-attachments/assets/8944bf42-d878-4ee9-8bac-f3332cf2f73c"/><h3 align="left">FAVOURITE LANGUAGES</h3>
+  <img align="right" alt="Angular" width="10%" src="https://github.com/user-attachments/assets/825a3dfc-7808-40a8-81ba-96232143d9be"/>
+ <img width="10%" alt="NestJS" align="right" src="https://github.com/user-attachments/assets/a62b9d59-c5be-44c4-8dcf-c60a5eeae9b0"/>
+  <img width="10%" alt="Flutter" align="right" src="https://github.com/user-attachments/assets/2fdb2fcc-7a49-43a5-99a4-7dab462716c5"/>
+  <br />
 
-![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
-![Springboot](http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white)
-![Project Reactor](http://img.shields.io/badge/-Project%20Reactor-6db33f?style=flat-square&logo=react&logoColor=white)
-![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
-![Gin](http://img.shields.io/badge/-Gin-3190d1?style=flat-square&logo=go&logoColor=white)
-![Flask](http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
-![Pytest](http://img.shields.io/badge/-Pytest-white?style=flat-square&logo=pytest)
-![Swoole](http://img.shields.io/badge/-Swoole-338eef?style=flat-square&logo=php&logoColor=white)
-![Kotlinx Coroutines](http://img.shields.io/badge/-Kotlinx%20Coroutines-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+  <br />
+  <img width="10%" alt="Django" align="right" src="https://github.com/user-attachments/assets/d4b919f9-c8be-4759-84c1-a7e842f6102d"/>
+</p>
+<br/>
+<br/>
+<p  align="right" >
+  <img  align="right" alt="ArrowUpward" width="10%" src="https://github.com/user-attachments/assets/300e8d33-faf7-4457-a523-cb7e963be8c2"/>
+  <br/>
 
-![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
-![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
-![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
+  <br/>
+  <h3 align="right">FAVOURITE FRAMEWORKS</h3>
 
-![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
-![Redis](http://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)
-![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
-![RocketMq](http://img.shields.io/badge/-RocketMq-white?style=flat-square&logo=apacherocketmq)
-![Kafka](http://img.shields.io/badge/-Kafka-white?style=flat-square&logo=apachekafka&logoColor=black)
-![RabbitMq](http://img.shields.io/badge/-RabbitMq-white?style=flat-square&logo=rabbitmq)
-![Hive](http://img.shields.io/badge/-Hive-white?style=flat-square&logo=apachehive)
-![Spark](http://img.shields.io/badge/-Spark-white?style=flat-square&logo=apachespark)
-![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
+  <img  align="left" alt="TypeScript" width="10%" src="https://github.com/user-attachments/assets/1cbf7502-1065-4494-b7b7-3dbe5f49a114"/>
+  <img  align="left" alt="JavaScript" width="10%" src="https://github.com/user-attachments/assets/ddb2183e-ac56-48b0-a4f0-7be7b58a0366"/>
+  <img align="left" alt="Dart" width="10%" src="https://github.com/user-attachments/assets/ed83fe23-adab-4f53-9c34-44882b6ac082"/>
+  <br />
+  <br />
+  <img  align="left" alt="Python" width="10%" src="https://github.com/user-attachments/assets/13ca08f2-5122-4503-8567-4eb686467133"/>
+  <br />
 
-![Subversion](http://img.shields.io/badge/-Subversion-white?style=flat-square&logo=subversion)
-![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![Maven](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043)
-![Gradle](http://img.shields.io/badge/-Gradle-white?style=flat-square&logo=gradle&logoColor=09303a)
-![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
-![Vgo](http://img.shields.io/badge/-Vgo-white?style=flat-square&logo=go)
+  <br />
+</p>
 
-![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
-![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
+<hr/>
+
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/0a06a692-c2b5-4302-a012-7a379fbb990d" width="50">
+  Me as a code... 
+  <img src="https://github.com/user-attachments/assets/d38dbeb9-d980-4389-9d17-dcc94be29a91" width="50">
+</p>
+
+```javascript
+import { Daniel } from "Awesome";
+
+const languages = ["Python", "Typescript", "Javascript", "Dart", "Java", "C++"];
+const frameworks = ["Flutter", "Angular", "React", "Django", "NestJS"];
+const databases = ["PostgreSQL", "CloudFireStore", "Oracle"];
+
+Akshat.skills.push(...languages, ...frameworks, ...databases);
+```
+
+<hr/>
+
+<p align="center">
+  <a href="https://github.com/ShopifyHunter0206/state-of-matter">
+    <img align="center" alt="StateOfMatter" src="https://github.com/user-attachments/assets/d2d7914a-ac00-4b9a-bc9a-07166d445f2e" />
+  </a>
+  <a href="https://github.com/ShopifyHunter0206/HackerNews">
+    <img align="center" alt="HackerNews" src="https://github.com/user-attachments/assets/8cff8ed5-6496-438e-ae11-e8dfe88efa13" />
+  </a>
+</p>
+
+<hr/>
+
+<p align="center">
+  <img align="center" alt="Akshat's github stats" src="https://github.com/user-attachments/assets/4c02c4ee-1e22-4b8e-ad86-f3c53cc8ddcc"  />
+  <img align="center" alt="Akshat's github stats" src="https://github.com/user-attachments/assets/101c94b3-e55a-44c3-9594-de5539e378fd" />
+</p>
 
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center"> 
+  <samp>
+    Profile Views Count
+  </samp>
+</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-------
-Credit: [supravatm](https://github.com/supravatm)
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/18dc418b-2f30-4435-8533-f2427666ea78" alt="ShopifyHunter0206 profile views" /> 
+</p>
 
-Last Edited on: 22/07/2024
+<hr/>
+
+
+
+<hr/>
+
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://github.com/user-attachments/assets/4ffa76c4-123d-428a-8c73-9b9612d96142"/>
+</p>
+
+<p align="center">
+  Made with ❤️ in Ottawa
+</p>
+
+-----
+Credits: [Daniel Cameron](https://github.com/ShopifyHunter0206)
+
+Last Edited on: 05/12/2023
