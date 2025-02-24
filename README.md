@@ -135,7 +135,7 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 </p>
 
 <p align="center">
-  Made with ❤️ in Ottawa
+  Made with ❤️ in Tornto
 </p>
 
 -----
