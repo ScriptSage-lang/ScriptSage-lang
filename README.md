@@ -20,7 +20,7 @@
     <br><br>
     Full stack developer
     <br><br>
-     & mobile developer...
+     & Blockchain developer...
     <br><br>
     Focusing on building beautiful
     <br><br> 
@@ -96,14 +96,7 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
-<p align="center">
-  <a href="https://github.com/ShopifyHunter0206/state-of-matter">
-    <img align="center" alt="StateOfMatter" src="https://github.com/user-attachments/assets/d2d7914a-ac00-4b9a-bc9a-07166d445f2e" />
-  </a>
-  <a href="https://github.com/ShopifyHunter0206/HackerNews">
-    <img align="center" alt="HackerNews" src="https://github.com/user-attachments/assets/8cff8ed5-6496-438e-ae11-e8dfe88efa13" />
-  </a>
-</p>
+
 
 <hr/>
 
@@ -130,9 +123,7 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
-<p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://github.com/user-attachments/assets/4ffa76c4-123d-428a-8c73-9b9612d96142"/>
-</p>
+
 
 <p align="center">
   Made with ❤️ in Tornto
