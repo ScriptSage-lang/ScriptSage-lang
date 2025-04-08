@@ -126,7 +126,7 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 
 
 <p align="center">
-  Made with ❤️ in Tornto
+  Made with ❤️ in Development World
 </p>
 
 -----
