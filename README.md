@@ -8,7 +8,7 @@
 <h2 align="center">
     I'm
     <img alt="popup_cat" src="https://github.com/user-attachments/assets/90e44a4d-50ad-4ff6-9b84-e84098824087" width="40">
-    Daniel Cameron
+    Garrett Eugene.L
     <img alt="dev_cat" src="https://github.com/user-attachments/assets/8530fe62-9e19-4e3e-8392-2c89d226dc0f" width="50">
 
 </h2>
@@ -85,13 +85,13 @@
 </p>
 
 ```javascript
-import { Daniel } from "Awesome";
+import { Garrett } from "Awesome";
 
 const languages = ["Python", "Typescript", "Javascript", "Dart", "Java", "C++"];
 const frameworks = ["Flutter", "Angular", "React", "Django", "NestJS"];
 const databases = ["PostgreSQL", "CloudFireStore", "Oracle"];
 
-Akshat.skills.push(...languages, ...frameworks, ...databases);
+Garrett.skills.push(...languages, ...frameworks, ...databases);
 ```
 
 <hr/>
@@ -101,7 +101,6 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 <hr/>
 
 <p align="center">
-  <img align="center" alt="Akshat's github stats" src="https://github.com/user-attachments/assets/4c02c4ee-1e22-4b8e-ad86-f3c53cc8ddcc"  />
   <img align="center" alt="Akshat's github stats" src="https://github.com/user-attachments/assets/101c94b3-e55a-44c3-9594-de5539e378fd" />
 </p>
 
@@ -130,6 +129,6 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 </p>
 
 -----
-Credits: [Daniel Cameron](https://github.com/ShopifyHunter0206)
+Credits: [Garrett Eugene Lawrence](https://github.com/honey0120)
 
 Last Edited on: 05/12/2023
