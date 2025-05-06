@@ -1,7 +1,7 @@
 <h2 align="center">
   <img alt="Hello" src="https://github.com/user-attachments/assets/e5e42af4-2e4f-46f1-948f-67adedd5b561" width="30px"> 
   Hello,World!
-  <img alt="Earth" src="https://github.com/user-attachments/assets/12865165-fa61-45a4-b792-22007ce0ade9" width="24px"/>
+  <img alt="Earth" src="https://github.com/user-attachments/assets/12865165-fa61-45a4-b792-22007ce0ade9" width="24px"/>  
 
 </h2>
 
