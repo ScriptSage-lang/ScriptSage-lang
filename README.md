@@ -8,7 +8,7 @@
 <h2 align="center">
     I'm
     <img alt="popup_cat" src="https://github.com/user-attachments/assets/90e44a4d-50ad-4ff6-9b84-e84098824087" width="40">
-    Garrett Eugene.L
+    Honey
     <img alt="dev_cat" src="https://github.com/user-attachments/assets/8530fe62-9e19-4e3e-8392-2c89d226dc0f" width="50">
 
 </h2>
@@ -85,13 +85,13 @@
 </p>
 
 ```javascript
-import { Garrett } from "Awesome";
+import { Honey } from "Awesome";
 
 const languages = ["Python", "Typescript", "Javascript", "Dart", "Java", "C++"];
 const frameworks = ["Flutter", "Angular", "React", "Django", "NestJS"];
 const databases = ["PostgreSQL", "CloudFireStore", "Oracle"];
 
-Garrett.skills.push(...languages, ...frameworks, ...databases);
+Honey.skills.push(...languages, ...frameworks, ...databases);
 ```
 
 <hr/>
@@ -129,6 +129,6 @@ Garrett.skills.push(...languages, ...frameworks, ...databases);
 </p>
 
 -----
-Credits: [Garrett Eugene Lawrence](https://github.com/honey0120)
+Credits: [honey](https://github.com/honey0120)
 
 Last Edited on: 05/12/2023
