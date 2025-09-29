@@ -5,14 +5,6 @@
 
 </h2>
 
-<h2 align="center">
-    I'm
-    <img alt="popup_cat" src="https://github.com/user-attachments/assets/90e44a4d-50ad-4ff6-9b84-e84098824087" width="40">
-    ScriptSage
-    <img alt="dev_cat" src="https://github.com/user-attachments/assets/8530fe62-9e19-4e3e-8392-2c89d226dc0f" width="50">
-
-</h2>
-
 <img width="55%" align="right" alt="Bootcamp" src="https://github.com/user-attachments/assets/5f6ec58c-6f52-41bb-9626-838488640ac4"/>
 
 <p align="left">
